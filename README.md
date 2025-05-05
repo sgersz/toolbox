@@ -96,7 +96,7 @@ Automation for Google Dialogflow agent management, including exporting intents, 
 
 Example:
 
-```bash
+bash
 chmod +x ./aws/aws_list_ec2_instances.sh
 ./aws/aws_list_ec2_instances.sh
 
